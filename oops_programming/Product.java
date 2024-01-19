@@ -12,7 +12,7 @@ public class Product implements Taxable {
     }
 
     @Override
-    public double calcTax(double price) {
+    public double calcTax(double price) { // product tax calculation
         price = price * this.qty;
         double salesTaxAmount = price * (salesTax / 100);
         return salesTaxAmount;
