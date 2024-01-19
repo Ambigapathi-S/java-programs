@@ -37,3 +37,20 @@ public class XYZ {
         System.out.println("---------------------------------------------------------------------");
     }
 }
+
+
+//  Output :
+//  ****** Employee Details ******
+//  Enter Employee ID : 1
+//  Enter Employee Name : Ambigapathi
+//  Enter Employee Salary : 20000
+//  ---------------------------------------------------------------------
+//  Income Tax Amount based on salary (year) : 25200.0
+//  ---------------------------------------------------------------------
+//  ****** Product Details ******
+//  Enter Product ID : 1
+//  Enter price : 1000
+//  Enter Quantity : 5
+//  ---------------------------------------------------------------------
+//  Sales Tax Amount based on price (include qty) 350.00
+//  ---------------------------------------------------------------------

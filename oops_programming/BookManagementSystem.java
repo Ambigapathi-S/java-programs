@@ -49,3 +49,66 @@ public class BookManagementSystem {
         }
     }
 }
+
+//        Output :
+//
+//        1. Add Book
+//        2. Display All Book
+//        3. Search Book
+//        4. Delete Book
+//        Press 0 to quit the process
+//        __________________________________________
+//        1
+//        Enter Book ID: 1
+//        Enter Title: The Secret
+//        Enter Author: john
+//        Book added successfully.
+//        __________________________________________
+//        1. Add Book
+//        2. Display All Book
+//        3. Search Book
+//        4. Delete Book
+//        Press 0 to quit the process
+//        __________________________________________
+//        1
+//        Enter Book ID: 2
+//        Enter Title: Kids Stories
+//        Enter Author: Raji
+//        Book added successfully.
+//        __________________________________________
+//        1. Add Book
+//        2. Display All Book
+//        3. Search Book
+//        4. Delete Book
+//        Press 0 to quit the process
+//        __________________________________________
+//        2
+//        Books in the library:
+//        {bookId=1, title='The Secret', author='john', isAvailable=true}
+//        {bookId=2, title='Kids Stories', author='Raji', isAvailable=true}
+//        __________________________________________
+//        1. Add Book
+//        2. Display All Book
+//        3. Search Book
+//        4. Delete Book
+//        Press 0 to quit the process
+//        __________________________________________
+//        3
+//        Enter Book ID : 1
+//        {bookId=1, title='The Secret', author='john', isAvailable=true} is available
+//        1. Add Book
+//        2. Display All Book
+//        3. Search Book
+//        4. Delete Book
+//        Press 0 to quit the process
+//        __________________________________________
+//        4
+//        Enter Book ID to remove: 2
+//        Book removed successfully.
+//        __________________________________________
+//        1. Add Book
+//        2. Display All Book
+//        3. Search Book
+//        4. Delete Book
+//        Press 0 to quit the process
+//        __________________________________________
