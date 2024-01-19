@@ -18,3 +18,14 @@ public class FindPositiveOrNegativeInteger {
         }
     }
 }
+
+//        Output :
+//        Testcase 1 :
+//            Enter a number :
+//            3
+//            Entered Number is positive Interger
+//
+//        Testcase 2 :
+//            Enter a number :
+//            -3
+//            Entered number is negative Integer

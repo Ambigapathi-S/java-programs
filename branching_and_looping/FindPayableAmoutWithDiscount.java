@@ -24,3 +24,9 @@ public class FindPayableAmoutWithDiscount {
         System.out.println("Final Payable Amount after appliying the discount : " + withDiscount);
     }
 }
+
+//        Output :
+//
+//        Enter the Purchase Amount :
+//        10000
+//        Final Payable Amount after appliying the discount : 12000.0

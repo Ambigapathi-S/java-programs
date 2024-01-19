@@ -21,3 +21,12 @@ public class SmallestAmongThreeNumbers {
 
     }
 }
+//    Output :
+//
+//        Enter Number 1 :
+//        10
+//        Enter Number 2 :
+//        25
+//        Enter Number 3 :
+//        10
+//        Smallest number is : 10

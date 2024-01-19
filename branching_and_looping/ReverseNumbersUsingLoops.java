@@ -20,3 +20,10 @@ public class ReverseNumbersUsingLoops {
 
     }
 }
+
+
+//        Output :
+//
+//        Enter a Number :
+//        1589
+//        Reversed number : 9851
