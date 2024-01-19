@@ -23,3 +23,7 @@ public class Person {
         System.out.println("Person Age : " + person.getAge());
     }
 }
+
+//  Output :
+//        Person Name : Aniii
+//        Person Age : 19

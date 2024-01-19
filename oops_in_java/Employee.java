@@ -14,3 +14,6 @@ public class Employee extends PersonBase{
         System.out.println("Employee ID : " + employee.employeeID + " Name : " + employee.getName() + " Age : " + employee.getAge() + " Salary : " + employee.salary);
     }
 }
+
+//      Output
+//        Employee ID : 1 Name : Raji Age : 20 Salary : 50000.0

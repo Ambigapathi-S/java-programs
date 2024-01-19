@@ -71,3 +71,41 @@ public class Account {
 
 
 }
+
+
+//  Output
+//        Press 1 to deposit amount,
+//        Press 2 to withdraw amount,
+//        press 3 to check balance,
+//        Press 0 to quit the process :
+//        1
+//        Enter the amount you want deposit :
+//        1000
+//        you have deposited rs.1000.0 and your balance is rs.1000.0
+//        Press 1 to deposit amount,
+//        Press 2 to withdraw amount,
+//        press 3 to check balance,
+//        Press 0 to quit the process :
+//        2
+//        Enter the amount you want to withdraw :
+//        1500
+//        You dont't have sufficient amount to withdraw and your balance is rs.1000.0
+//        Press 1 to deposit amount,
+//        Press 2 to withdraw amount,
+//        press 3 to check balance,
+//        Press 0 to quit the process :
+//        2
+//        Enter the amount you want to withdraw :
+//        500
+//        you have debited rs.500.0 and your balance is rs.500.0
+//        Press 1 to deposit amount,
+//        Press 2 to withdraw amount,
+//        press 3 to check balance,
+//        Press 0 to quit the process :
+//        3
+//        Your Current balance is rs.500.0
+//        Press 1 to deposit amount,
+//        Press 2 to withdraw amount,
+//        press 3 to check balance,
+//        Press 0 to quit the process :
+//        0
